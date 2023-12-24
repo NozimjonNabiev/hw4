@@ -56,6 +56,33 @@ A cross-platform dictionary app built using Flutter, offering a comprehensive wa
 ### Logging Out (if applicable)
 - If logged in, access the logout feature through the app's menu or settings.
 
+## Screenshots
+
+### Login
+![Login](./images/screenshots/login.jpg)
+*Description: This screenshot shows the login screen.*
+
+### Signup
+![Signup](./images/screenshots/signup.jpg)
+*Description: This screenshot displays the signup screen.*
+
+### Search
+![Search](./images/screenshots/search.jpg)
+*Description: This screenshot demonstrates the search functionality.*
+
+### Word Definition with Audio
+![Word Definition with Audio](./images/screenshots/word_definition.jpg)
+*Description: This screenshot showcases the word definition page with audio.*
+
+### Favorites
+![Favorites](./images/screenshots/favorites.jpg)
+*Description: This screenshot exhibits the favorites section.*
+
+### Account
+![Account](./images/screenshots/account.jpg)
+*Description: This screenshot presents the account settings page.*
+
+
 ### Note:
 FlutLab.io simplifies the development process by providing an integrated environment for Flutter app creation and testing. Follow the steps above to run your Flutter project seamlessly on an Android device.
 
