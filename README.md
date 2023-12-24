@@ -60,27 +60,21 @@ A cross-platform dictionary app built using Flutter, offering a comprehensive wa
 
 ### Login
 ![Login](./images/screenshots/login.jpg)
-*Description: This screenshot shows the login screen.*
 
 ### Signup
 ![Signup](./images/screenshots/signup.jpg)
-*Description: This screenshot displays the signup screen.*
 
 ### Search
 ![Search](./images/screenshots/search.jpg)
-*Description: This screenshot demonstrates the search functionality.*
 
 ### Word Definition with Audio
 ![Word Definition with Audio](./images/screenshots/word_definition.jpg)
-*Description: This screenshot showcases the word definition page with audio.*
 
 ### Favorites
 ![Favorites](./images/screenshots/favorites.jpg)
-*Description: This screenshot exhibits the favorites section.*
 
 ### Account
 ![Account](./images/screenshots/account.jpg)
-*Description: This screenshot presents the account settings page.*
 
 
 ### Note:
